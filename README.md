@@ -1,6 +1,10 @@
 # ENSEMBLE-METHODS
 This is the glass dataset ,that i have used for applying the ensemble methods of Random Forest ,BAgging and Boosting Methods ,and i have compared the results based on accuracies ,recall score ,F1 and precision score.
+
+
 </h>Glass Classification Project<h/>
+
+
 This project focuses on classifying types of glass using machine learning techniques. The dataset used is the Glass Identification dataset, and several ensemble methods were applied and compared, including Random Forest, Bagging, and boosting algorithms such as AdaBoost, XGBoost, and Gradient Boosting.
 
 📌 Project Overview
